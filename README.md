@@ -4,14 +4,21 @@ Here is the current framework for Cree project of predicting microwave transisto
 ## What's included
 A project framework to profile and catalog existed models' accuracy performance and computational performance.
 
-## Your checklist to run those examples
+## Your checklist you need before running those examples
 - [X] Clone this repository.
-- [X] Put your data files into this directory ''
+- [X] Copy your data files into this directory 'CreeProject/splitted_data/D9090_split'
 - [X] check the dependencies.
 
-
 ## Dependencies
+- python 3.6 or above
+- pandas
+- numpy
+- matplotlib
 - sklearn
+- xgboost
+- tensorflow
+- keras
+- [smithplot](https://github.com/vMeijin/pySmithPlot)
 
 ## License
 https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework/blob/master/LICENSE
