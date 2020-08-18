@@ -13,3 +13,6 @@ A project framework to profile and catalog existed models' accuracy performance 
 
 ## Dependencies
 sklearn
+
+## License
+https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework/blob/master/LICENSE
