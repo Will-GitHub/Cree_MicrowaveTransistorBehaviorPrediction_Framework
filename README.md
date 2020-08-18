@@ -1,6 +1,5 @@
 # Cree_MicrowaveTransistorBehaviorPrediction_Framework
-Here is the current framework for Cree project of predicting microwave transistor behavior.
-
+Here is the current framework for Cree project of predicting microwave transistor behavior. As required, the data files are not shared in this public repositories. 
 
 ## What's included
 A project framework to profile and catalog existed models' accuracy performance and computational performance.
@@ -12,7 +11,7 @@ A project framework to profile and catalog existed models' accuracy performance 
 
 
 ## Dependencies
-sklearn
+- sklearn
 
 ## License
 https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework/blob/master/LICENSE
