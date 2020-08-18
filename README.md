@@ -6,9 +6,10 @@ Here is the current framework for Cree project of predicting microwave transisto
 A project framework to profile and catalog existed models' accuracy performance and computational performance.
 
 ## Your checklist to run those examples
-- [ ] Clone this repository.
-- [ ] Put your data files into this directory ''
-- [ ] check the dependencies.
+- [X] Clone this repository.
+- [X] Put your data files into this directory ''
+- [X] check the dependencies.
+
 
 ## Dependencies
-
+sklearn
