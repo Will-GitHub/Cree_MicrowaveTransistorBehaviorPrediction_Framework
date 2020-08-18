@@ -21,4 +21,4 @@ A project framework to profile and catalog existed models' accuracy performance 
 - [smithplot](https://github.com/vMeijin/pySmithPlot)
 
 ## License
-https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework/blob/master/LICENSE
+[MIT license](https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework/blob/master/LICENSE)
