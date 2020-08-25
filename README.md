@@ -6,7 +6,7 @@ A project framework to profile and catalog existed models' accuracy performance 
 
 ## Your checklist you need before running those examples
 - [X] Clone this repository.
-- [X] Copy your data files into this directory 'CreeProject/splitted_data/D9090_split'
+- [X] Copy your data files into this directory './splitted_data/D9090_split'
 - [X] check the [dependencies](https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework#dependencies)
 
 ## Dependencies
