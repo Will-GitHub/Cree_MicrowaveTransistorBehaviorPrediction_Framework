@@ -8,6 +8,7 @@ A project framework to profile and catalog existed models' accuracy performance 
 - [X] Clone this repository.
 - [X] Copy your data files into this directory './splitted_data/D9090_split'
 - [X] check the [dependencies](https://github.com/Will-GitHub/Cree_MicrowaveTransistorBehaviorPrediction_Framework#dependencies)
+- [X] Run 'Profiling.ipynb' in Jupyter Notebook in each folder to see the results.
 
 ## Dependencies
 - python 3.6 or above
